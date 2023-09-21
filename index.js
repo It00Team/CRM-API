@@ -50,7 +50,7 @@ app.use('/api/crm/mail/', crm_mail_router)
 
 
 
-// app.listen(serverPort.PORT , ()=>{
-app.listen(serverPort.PORT ,"192.168.2.195", ()=>{
+app.listen(serverPort.PORT , ()=>{
+// app.listen(serverPort.PORT ,"192.168.2.195", ()=>{
     console.log(`${serverPort.PORT}`);
 })     
