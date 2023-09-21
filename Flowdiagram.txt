@@ -1,0 +1,4 @@
+Shifts -> admin will add, update, delete, see
+User Shifts -> admin will assign shifts to user 
+(for this one admin will see a page with two boxes. first box will have users. second will have shifts.admin will eleect on usr and one sift and will click on submit. the data 
+will send o databse and page will be reloaded )
